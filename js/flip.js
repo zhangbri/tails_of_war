@@ -35,7 +35,7 @@ cardsets.forEach((cardset) => {
 
         // Assuming there's an <img> tag inside each card
         const img = card.querySelector('img');
-        img.src = index === 0 ? 'images/Grass/Allie Cat.png' : 'images/Grass/Allie.png';
+        img.src = index === 0 ? 'Grass/Allie Cat.png' : 'Grass/Allie.png';
     });
 });
 
