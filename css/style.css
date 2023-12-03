@@ -1,6 +1,6 @@
 body {
     font-family: 'Jua', sans-serif;
-    background-image: url('/images/brick_background.png');
+    background-image: url('../images/brick_background.png');
     color: #EFD6B7;
 }
 
