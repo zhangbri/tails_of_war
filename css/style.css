@@ -7,13 +7,13 @@ body {
 .skip a {
     transition: top 1s ease-out;
     position: absolute;
-    top: -40px;
+    top: -50px;
     margin-left: 20px;
-    font-size: 40px;
+    font-size: 35px;
 }
 
 .skip a:focus {
-    top: 100px;
+    top: 70px;
     text-decoration: underline;
 }
 
@@ -43,7 +43,7 @@ body {
 
 .navbar .links a {
     text-decoration: none;
-    font-size: 50px;
+    font-size: 35px;
     color: #333;
 }
 
@@ -57,11 +57,6 @@ body {
 .links li {
     display: inline-block;
     margin-right: 48px;
-}
-
-.links a {
-    text-decoration: none;
-    font-size: 40px;
 }
 
 a.btn:focus,
@@ -86,8 +81,8 @@ a.btn.active:focus {
 }
 
 h1 {
-    margin-top: 130px;
-    font-size: 80px;
+    margin-top: 100px;
+    font-size: 60px;
     text-align: center;
     margin-bottom: 40px;
     text-decoration: underline;
@@ -96,7 +91,7 @@ h1 {
 h2 {
     margin-top: 100px;
     margin-bottom: 40px;   
-    font-size: 65px;
+    font-size: 50px;
     text-align: center;
 }
 
@@ -112,7 +107,7 @@ main {
 }
 
 p {
-    font-size: 40px;
+    font-size: 30px;
     text-align: center;
     line-height: 1.75;
     margin: 35px 70px 80px 70px;
@@ -159,12 +154,12 @@ footer {
 .left_arrow, .right_arrow {
     width: 200px; /* Adjust the width of the arrows as needed */
     height: auto;
-    margin: 0px 3%; /* Adjust the margin as needed */
+    margin: 0px 5%; /* Adjust the margin as needed */
     cursor: pointer;
 }
 
 .arrow_container h1 {
-    margin: 5px; /* Adjust the top margin as needed */
+    margin: 0px 0px 0px 0px; /* Adjust the top margin as needed */
 }
 
 .card_container {
@@ -181,8 +176,8 @@ footer {
 }
 
 .card-inner {
-    width: 500px; /* Adjusted card width */
-    height: 500px; /* Adjusted card height */
+    width: 400px; /* Adjusted card width */
+    height: 400px; /* Adjusted card height */
     transform-style: preserve-3d;
     transition: transform 0.5s;
 }
