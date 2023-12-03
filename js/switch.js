@@ -13,7 +13,7 @@ const initialImagePaths = [
     ],
     [
         ["images/Desert/Sam.jpg", "images/Desert/Samba.png"],
-        ["images/Desert/Nya.jpg", "images/Desert/Sibil.png"],
+        ["images/Desert/Sib.jpg", "images/Desert/Sibil.png"],
         ["images/Desert/Desert_Swordsman_1.png", "images/Desert/Desert_Swordsman_2.png"],
         ["images/Desert/Desert_Spearman_2.png", "images/Desert/Desert_Spearman_1.png"],
         ["images/Desert/Desert_Bowman_1.png", "images/Desert/Desert_Bowman_2.png"],
