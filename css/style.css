@@ -361,7 +361,11 @@ li{
     }
 
     .image-container img {
-        max-width: 80%; /* Further adjusted max-width for very small screens */
+        max-width: 100%; /* Further adjusted max-width for very small screens */
+    }
+    .image-container div:first-child img,
+    .image-container div:last-child img {
+        max-width: 60%; /* Adjust the max-width for the first and last images */
     }
 
     .arrow_container {
