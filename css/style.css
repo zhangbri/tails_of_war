@@ -372,6 +372,14 @@ li{
         margin: 10vw;/* Adjusted margin for small screens */
     }
 
+    .arrow_container h1{
+        font-size: 6vw;/* Adjusted margin for small screens */
+    }
+
+    main > .arrow_container {
+        margin: 10%;/* Adjusted margin for small screens */
+    }
+
     .left_arrow, .right_arrow {
         width: 15vw; /* Adjusted arrow width for small screens */
         margin: 20% 5%; /* Adjusted margin for small screens */
@@ -410,7 +418,7 @@ li{
     }
 
     .wrapper-right {
-        width: 90%; /* Adjusted width for small screens */
+        width: 100%; /* Adjusted width for small screens */
     }
 
     .text-box{
@@ -422,7 +430,7 @@ li{
     }
 
     .wrapper img{
-        max-width: 45%; /* Make images responsive within their containers */
+        max-width: 40%; /* Make images responsive within their containers */
     }
     
     .wrapper-right img {
