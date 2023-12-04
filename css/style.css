@@ -18,6 +18,11 @@ body {
     text-decoration: underline;
 }
 
+*:focus {
+    border: 5px solid #712E32;
+    border-radius: 5px;
+}
+
 .navbar {
     background-color: rgba(255, 255, 255, 0.8);
     position: fixed;
@@ -280,8 +285,35 @@ li{
 }
 
 .transparent {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 0 auto;
+    border-style: none;
+}
+
+.wrapper{
+    margin: 90px auto;
+    width: 75%;
+    display: flex;
+    align-items: center;
+}
+
+.wrapper img{
+    float: left;
+}
+
+.text-box{
+    width: 90%;
+}
+
+.wrapper-right{
+    margin: 30px auto;
+    width: 55%;
+    display: flex;
+    align-items: center;
+}
+
+.wrapper-right img{
+    float: right;
+}
+
+.text-box-right{
+    width: 70%;
 }
