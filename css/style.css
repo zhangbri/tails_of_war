@@ -317,3 +317,21 @@ li{
 .text-box-right{
     width: 70%;
 }
+
+@media (max-width: 768px) {
+    .arrow_container {
+        flex-direction: column; /* Stack arrows vertically */
+        margin: 40px 0 30px 0;
+    }
+
+    .left_arrow, .right_arrow {
+        max-width: 60%; /* Adjust maximum width for smaller screens */
+    }
+}
+
+/* Media query for even smaller screens */
+@media (max-width: 480px) {
+    .left_arrow, .right_arrow {
+        max-width: 80%; /* Further adjust maximum width for very small screens */
+    }
+}
