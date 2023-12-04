@@ -1,6 +1,7 @@
 body {
     font-family: 'Jua', sans-serif;
-    background-image: url('../images/brick_background.png');
+    background-image: url('../images/brick_cat.jpg');
+    background-size: contain;
     color: #EFD6B7;
 }
 
@@ -90,7 +91,7 @@ h1 {
 
 h2 {
     margin-top: 100px;
-    margin-bottom: 40px;   
+    margin-bottom: 25px;   
     font-size: 50px;
     text-align: center;
 }
@@ -136,35 +137,36 @@ p {
     display: flex;
     justify-content: space-evenly; 
     align-items: center;
-    margin-top: 130px;
+    margin-top: 120px;
     margin-bottom: 50px;
 }
 
 footer {
-    text-align: center; /* Center align the content */
+    text-align: center;
 }
 
 .arrow_container {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 75px;
+    margin: 75px 75px 65px 75px;
 }
 
 .left_arrow, .right_arrow {
-    width: 200px; /* Adjust the width of the arrows as needed */
+    width: 200px;
     height: auto;
-    margin: 0px 5%; /* Adjust the margin as needed */
+    margin: 0px 5%;
     cursor: pointer;
+    border-style: none;
 }
 
 .arrow_container h1 {
-    margin: 0px 0px 0px 0px; /* Adjust the top margin as needed */
+    margin: 0px 0px 0px 0px;
 }
 
 .card_container {
     display: flex;
-    flex-wrap: wrap; /* Allow cards to wrap to the next line */
+    flex-wrap: wrap;
     justify-content: center;
 }
 
@@ -172,12 +174,12 @@ footer {
     perspective: 800px;
     transform-style: preserve-3d;
     cursor: pointer;
-    margin: 0px 110px 180px 110px;
+    margin: 0px 110px 150px 110px;
 }
 
 .card-inner {
-    width: 400px; /* Adjusted card width */
-    height: 400px; /* Adjusted card height */
+    width: 400px;
+    height: 400px;
     transform-style: preserve-3d;
     transition: transform 0.5s;
 }
@@ -201,11 +203,85 @@ footer {
 .card-inner img {
     width: 100%;
     height: 100%;
-    border-radius: 10px; /* Adjusted border radius */
-    border: 10px solid #CACACA; /* Adjusted border width */
+    border-radius: 10px;
+    border: 10px solid #CACACA;
 }
 
 figcaption{
     font-size: 45px;
-    margin: 25px;
+    margin-top: 20px;
+}
+
+.margin_less{
+    margin-top: 30px;
+}
+
+#map2, #map3 {
+    display: none;
+}
+
+#map_caption{
+    font-size: 40px;
+}
+
+main > .arrow_container {
+    margin: 40px 0px 25px 0px;
+}
+
+#feature_container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.feature {
+    text-align: center;
+    position: relative;
+    flex: 1 1 45%; /* Adjust the flex properties */
+    margin: 10px;
+}
+
+.feature p{
+    margin: 35px 40px 50px 40px;
+}
+
+h3 {
+    font-size: 45px;
+    margin-top: 80px;
+    margin-bottom: 10px;
+}
+li{
+    font-size: 30px;
+    line-height: 1.9;
+}
+
+.caption{
+    margin: 10px 10px 0px 10px;
+}
+
+.transparent{
+    border-style: none;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.text-container {
+    flex: 1;
+    padding: 20px;
+}
+
+.image-container {
+    flex: 1;
+    text-align: center;
+}
+
+.transparent {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
 }

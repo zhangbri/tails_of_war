@@ -3,7 +3,6 @@ const chucklefishImage = document.querySelector('.column img[src="images/chuckle
 const wolverineSoftImage = document.querySelector('.image-container img[src="images/wsoft_logo.png"]');
 const steamImage = document.querySelector('.image-container img[src="images/steam.png"]');
 
-// Add click event listener to open URLs in a new tab
 wargrooveImage.addEventListener('click', function() {
     window.open('https://wargroove.com', '_blank');
 });

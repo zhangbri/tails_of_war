@@ -35,44 +35,48 @@ const initialImagePaths = [
     ]
 ];
 
-let currentFactionIndex = 0; // Initial index
+let currentMapIndex = 0;
 
-function changeFaction(direction) {
+function changeMap(direction) {
+    const mapElement = document.getElementById("map");
+    const map2Element = document.getElementById("map2");
+    const map3Element = document.getElementById("map3");
+    const captionElement = document.getElementById("map_caption"); // Added this line
+
     if (direction === "right") {
-        currentFactionIndex = (currentFactionIndex + 1) % factionNames.length;
+        currentMapIndex = (currentMapIndex + 1) % 3;
     } else if (direction === "left") {
-        currentFactionIndex = (currentFactionIndex - 1 + factionNames.length) % factionNames.length;
+        currentMapIndex = (currentMapIndex - 1 + 3) % 3;
     }
 
-    const factionNameElement = document.getElementById("game_name");
-    factionNameElement.textContent = factionNames[currentFactionIndex];
+    // Hide all maps
+    mapElement.style.display = "none";
+    map2Element.style.display = "none";
+    map3Element.style.display = "none";
 
-    // Get the array of initial image paths for the current faction
-    const factionPaths = initialImagePaths[currentFactionIndex];
+    // Show the current map based on the index
+    if (currentMapIndex === 0) {
+        mapElement.style.display = "block";
+    } else if (currentMapIndex === 1) {
+        map2Element.style.display = "block";
+    } else if (currentMapIndex === 2) {
+        map3Element.style.display = "block";
+    }
 
-    // Get all card-front and card-back elements
-    const cardFronts = document.querySelectorAll(".card-front img");
-    const cardBacks = document.querySelectorAll(".card-back img");
-
-    // Update card-front images
-    cardFronts.forEach((front, index) => {
-        front.src = factionPaths[index][0];
-    });
-
-    // Update card-back images
-    cardBacks.forEach((back, index) => {
-        back.src = factionPaths[index][1];
-    });
+    // Set the appropriate caption
+    if (currentMapIndex === 0) {
+        captionElement.textContent = "Beginner";
+    } else if (currentMapIndex === 1) {
+        captionElement.textContent = "Intermediate";
+    } else if (currentMapIndex === 2) {
+        captionElement.textContent = "Advanced";
+    }
 }
 
 document.getElementById("left_arrow").addEventListener("click", function () {
-    changeFaction("left");
+    changeMap("left");
 });
 
 document.getElementById("right_arrow").addEventListener("click", function () {
-    changeFaction("right");
+    changeMap("right");
 });
-
-function flipCard(element) {
-    element.classList.toggle("flipped");
-}
