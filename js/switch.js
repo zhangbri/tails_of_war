@@ -34,14 +34,45 @@ const initialImagePaths = [
         ["images/Tundra/Tundra_Sorcerer_2.png", "images/Tundra/Tundra_Sorcerer_1.png"]
     ]
 ];
+let currentFactionIndex = 0;
+function changeFaction(direction) {
+    if (direction === "right") {
+        currentFactionIndex = (currentFactionIndex + 1) % factionNames.length;
+    } else if (direction === "left") {
+        currentFactionIndex = (currentFactionIndex - 1 + factionNames.length) % factionNames.length;
+    }
+    const factionNameElement = document.getElementById("game_name");
+    factionNameElement.textContent = factionNames[currentFactionIndex];
 
+    const factionPaths = initialImagePaths[currentFactionIndex];
+ 
+    const cardFronts = document.querySelectorAll(".card-front img");
+    const cardBacks = document.querySelectorAll(".card-back img");
+   
+    cardFronts.forEach((front, index) => {
+        front.src = factionPaths[index][0];
+    });
+
+    cardBacks.forEach((back, index) => {
+        back.src = factionPaths[index][1];
+    });
+}
+document.getElementById("left_arrow").addEventListener("click", function () {
+    changeFaction("left");
+});
+document.getElementById("right_arrow").addEventListener("click", function () {
+    changeFaction("right");
+});
+function flipCard(element) {
+    element.classList.toggle("flipped");
+}
 let currentMapIndex = 0;
 
 function changeMap(direction) {
     const mapElement = document.getElementById("map");
     const map2Element = document.getElementById("map2");
     const map3Element = document.getElementById("map3");
-    const captionElement = document.getElementById("map_caption"); // Added this line
+    const captionElement = document.getElementById("map_caption");
 
     if (direction === "right") {
         currentMapIndex = (currentMapIndex + 1) % 3;
@@ -49,12 +80,10 @@ function changeMap(direction) {
         currentMapIndex = (currentMapIndex - 1 + 3) % 3;
     }
 
-    // Hide all maps
     mapElement.style.display = "none";
     map2Element.style.display = "none";
     map3Element.style.display = "none";
 
-    // Show the current map based on the index
     if (currentMapIndex === 0) {
         mapElement.style.display = "block";
     } else if (currentMapIndex === 1) {
@@ -63,7 +92,6 @@ function changeMap(direction) {
         map3Element.style.display = "block";
     }
 
-    // Set the appropriate caption
     if (currentMapIndex === 0) {
         captionElement.textContent = "Beginner";
     } else if (currentMapIndex === 1) {
