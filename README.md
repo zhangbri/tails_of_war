@@ -48,7 +48,7 @@ To engage with this project locally:
   <img width="32.9%" alt="european_faction" src="https://github.com/zhangbri/tails_of_war/assets/115335041/4cecba71-f41d-403b-9c16-20ccbbb04a0f">
 </p>
 <p align="center">
-  <img width="35%" alt="buildings" src="https://github.com/zhangbri/tails_of_war/assets/115335041/118a4647-2aad-4573-8ca8-2362e198d854">
+  <img width="33%" alt="buildings" src="https://github.com/zhangbri/tails_of_war/assets/115335041/118a4647-2aad-4573-8ca8-2362e198d854">
 </p>
 
 ## 📬 Contact
