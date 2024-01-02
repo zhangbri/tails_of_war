@@ -1,7 +1,7 @@
 # 🐈🐈‍⬛ Tails of War Website 🎮🐾
 
 ## 🌟 Introduction
-Welcome to the 'Tails of War' project repository! 🚀 This repository hosts the vibrant website for 'Tails of War', a unique cat-themed turn-based tactics game. The site is a comprehensive portal, offering in-depth insights into gameplay mechanics, intriguing factions, strategic buildings, and more. Crafted with an interactive and user-friendly interface, our mission is to captivate visitors and immerse them into the enchanting world of 'Tails of War'.
+Welcome to the Tails of War project repository! 🚀 This repository hosts the vibrant website for Tails of War, a unique cat-themed turn-based tactics game. The site is a comprehensive portal, offering in-depth insights into gameplay mechanics, intriguing factions, strategic buildings, and more. Crafted with an interactive and user-friendly interface, our mission is to captivate visitors and immerse them into the enchanting world of Tails of War.
 
 ## 💡 Project Features
 - **Responsive Design:** 🖥️📱 Guarantees a seamless browsing experience across a variety of devices and screen sizes.
@@ -23,12 +23,12 @@ To embark on the 'Tails of War' adventure:
 1. Visit the live site at https://zhangbri.github.io/tails_of_war/
 
 To engage with this project locally:
-1. Clone the repo: `git clone https://github.com/[YourUsername]/TailsOfWar.git`
-2. Navigate to the project's heart: `cd TailsOfWar`
+1. Clone the repo: `git clone https://github.com/[YourUsername]/tails_of_war.git`
+2. Navigate to the project's heart: `cd tails_of_war`
 3. Open `index.html` in your web browser to witness the magic.
 
 ## 📁 Directory Structure
-- `index.html` - The main gateway to 'Tails of War'.
+- `index.html` - The main gateway to Tails of War.
 - `gameplay.html` - Dive deep into the gameplay intricacies.
 - `factions.html` - Uncover the secrets of the game's factions.
 - `buildings.html` - Explore the strategic in-game buildings.
