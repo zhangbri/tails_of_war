@@ -53,4 +53,4 @@ To engage with this project locally:
 </p>
 
 ## 📬 Contact
-Got queries or suggestions? Feel free to reach out to me at zhangbri@umich.edu.
+Got queries or suggestions? Feel free to reach out via email at [zhangbri@umich.edu](mailto:zhangbri@umich.edu), or connect with me on [LinkedIn](https://www.linkedin.com/in/zhangbri/). I’m open to suggestions, collaborations, and discussions.
