@@ -38,18 +38,17 @@ To engage with this project locally:
 
 ## 📸 Screenshots
 <p align="center">
-  <img width="205" alt="beginner_map" src="https://github.com/zhangbri/tails_of_war/assets/115335041/eebc2724-bf38-44cb-990f-3144aed9a415">
-  <img width="260" alt="intermediate_map" src="https://github.com/zhangbri/tails_of_war/assets/115335041/28d1f3df-76f7-434b-9be0-d231f5d966ef">
-  <img width="260" alt="advanced_map" src="https://github.com/zhangbri/tails_of_war/assets/115335041/e7b120dd-5884-453f-87c7-e5160eaa2512">
+  <img width="28.1%" alt="beginner_map" src="https://github.com/zhangbri/tails_of_war/assets/115335041/eebc2724-bf38-44cb-990f-3144aed9a415">
+  <img width="35.5%" alt="intermediate_map" src="https://github.com/zhangbri/tails_of_war/assets/115335041/28d1f3df-76f7-434b-9be0-d231f5d966ef">
+  <img width="35.5%" alt="advanced_map" src="https://github.com/zhangbri/tails_of_war/assets/115335041/e7b120dd-5884-453f-87c7-e5160eaa2512">
 </p>
 <p align="center">
-  <img width="260" alt="asian_faction" src="https://github.com/zhangbri/tails_of_war/assets/115335041/b32490ad-db50-45a7-bc99-d4025b53d2d9">
-  <img width="260" alt="desert_faction" src="https://github.com/zhangbri/tails_of_war/assets/115335041/5e983aaf-d130-4eaf-932e-1303143a5523">
-  <img width="260" alt="european_faction" src="https://github.com/zhangbri/tails_of_war/assets/115335041/4cecba71-f41d-403b-9c16-20ccbbb04a0f">
-
+  <img width="33%" alt="asian_faction" src="https://github.com/zhangbri/tails_of_war/assets/115335041/b32490ad-db50-45a7-bc99-d4025b53d2d9">
+  <img width="33%" alt="desert_faction" src="https://github.com/zhangbri/tails_of_war/assets/115335041/5e983aaf-d130-4eaf-932e-1303143a5523">
+  <img width="33%" alt="european_faction" src="https://github.com/zhangbri/tails_of_war/assets/115335041/4cecba71-f41d-403b-9c16-20ccbbb04a0f">
 </p>
 <p align="center">
-  <img width="240" alt="buildings" src="https://github.com/zhangbri/tails_of_war/assets/115335041/118a4647-2aad-4573-8ca8-2362e198d854">
+  <img width="40%" alt="buildings" src="https://github.com/zhangbri/tails_of_war/assets/115335041/118a4647-2aad-4573-8ca8-2362e198d854">
 </p>
 
 ## 📬 Contact
