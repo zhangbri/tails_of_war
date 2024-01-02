@@ -20,16 +20,16 @@ Welcome to the Tails of War project repository! 🚀 This repository hosts the v
 
 ## 🚀 Quick Start
 To engage with this project locally:
-#### Clone the repo
+
+**Clone the repo**
 ```
 git clone https://github.com/zhangbri/tails_of_war.git
 ```
-#### Navigate to the project's heart:
+**Navigate to the project's heart**
 ```
 cd tails_of_war
 ```
-
-#### Open `index.html` in your web browser to witness the magic.
+**Open** `index.html` **in your web browser to witness the magic.**
 
 ## Live Demo 🔗
 To embark on the Tails of War adventure: https://zhangbri.github.io/tails_of_war/
