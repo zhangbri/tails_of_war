@@ -38,7 +38,7 @@ To engage with this project locally:
 
 ## 📸 Screenshots
 <p align="center">
-  <img width="27.9%" alt="beginner_map" src="https://github.com/zhangbri/tails_of_war/assets/115335041/eebc2724-bf38-44cb-990f-3144aed9a415">
+  <img width="28%" alt="beginner_map" src="https://github.com/zhangbri/tails_of_war/assets/115335041/eebc2724-bf38-44cb-990f-3144aed9a415">
   <img width="35.5%" alt="intermediate_map" src="https://github.com/zhangbri/tails_of_war/assets/115335041/28d1f3df-76f7-434b-9be0-d231f5d966ef">
   <img width="35.5%" alt="advanced_map" src="https://github.com/zhangbri/tails_of_war/assets/115335041/e7b120dd-5884-453f-87c7-e5160eaa2512">
 </p>
