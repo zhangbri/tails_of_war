@@ -1,4 +1,4 @@
-# 🐈🐈‍⬛ Tails of War Website 🎮
+# 🐈🐈‍⬛ Tails of War Website 🎮🐾
 
 ## 🌟 Introduction
 Welcome to the 'Tails of War' project repository! 🚀 This repository hosts the vibrant website for 'Tails of War', a unique cat-themed turn-based tactics game. The site is a comprehensive portal, offering in-depth insights into gameplay mechanics, intriguing factions, strategic buildings, and more. Crafted with an interactive and user-friendly interface, our mission is to captivate visitors and immerse them into the enchanting world of 'Tails of War'.
