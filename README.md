@@ -19,7 +19,7 @@ Welcome to the Tails of War project repository! 🚀 This repository hosts the v
 - **Google Fonts:** 🖋️ Enhancing typography with stylish and readable fonts.
 
 ## 🚀 Quick Start
-**Clone the repo**
+**Clone the repository**
 ```
 git clone https://github.com/zhangbri/tails_of_war.git
 ```
