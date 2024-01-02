@@ -43,9 +43,10 @@ To engage with this project locally:
   <img width="260" alt="advanced_map" src="https://github.com/zhangbri/tails_of_war/assets/115335041/e7b120dd-5884-453f-87c7-e5160eaa2512">
 </p>
 <p align="center">
-  <img width="260" alt="asian_faction" src="https://github.com/zhangbri/tails_of_war/assets/115335041/4ab015b5-42e5-46c9-bcfd-15d2d90a64af">
-  <img width="260" alt="desert_faction" src="https://github.com/zhangbri/tails_of_war/assets/115335041/7bd2d80a-aaf4-47cd-a7cb-82428d5a639e">
-  <img width="260" alt="european_faction" src="https://github.com/zhangbri/tails_of_war/assets/115335041/aaf940e6-ec2d-4192-9c87-1a1600f8fcae">
+  <img width="260" alt="asian_faction" src="https://github.com/zhangbri/tails_of_war/assets/115335041/9077af9b-c23e-44e7-8ff3-44e16b5c63c9">
+  <img width="260" alt="desert_faction" src="https://github.com/zhangbri/tails_of_war/assets/115335041/e2325df4-8879-4efc-b6a7-db82185846c1">
+  <img width="260" alt="european_faction" src="https://github.com/zhangbri/tails_of_war/assets/115335041/1490a0ed-493a-4faa-b4fb-5b10a0ba0c4c">
+
 </p>
 <p align="center">
   <img width="240" alt="buildings" src="https://github.com/zhangbri/tails_of_war/assets/115335041/118a4647-2aad-4573-8ca8-2362e198d854">
