@@ -23,7 +23,7 @@ To embark on the 'Tails of War' adventure:
 1. Visit the live site at https://zhangbri.github.io/tails_of_war/
 
 To engage with this project locally:
-1. Clone the repo: `git clone https://github.com/[YourUsername]/tails_of_war.git`
+1. Clone the repo: `git clone https://github.com/zhangbri/tails_of_war.git`
 2. Navigate to the project's heart: `cd tails_of_war`
 3. Open `index.html` in your web browser to witness the magic.
 
