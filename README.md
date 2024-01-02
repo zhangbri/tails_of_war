@@ -12,20 +12,28 @@ Welcome to the Tails of War project repository! 🚀 This repository hosts the v
 - **Dynamic Map Switching:** 🗺️ Enhances gameplay exploration with interactive map functionalities.
 - **External Links:** 🔗 Connects visitors to a wealth of related resources, enriching the site's informational value.
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies 
 - **HTML:** 📝 For structuring the vibrant web pages.
 - **CSS:** 🎨 Styling the web pages with a flair, including adaptive responsive design.
 - **JavaScript:** ⚙️ Injecting interactive features to bring the site to life.
 - **Google Fonts:** 🖋️ Enhancing typography with stylish and readable fonts.
 
 ## 🚀 Quick Start
-To embark on the 'Tails of War' adventure:
-1. Visit the live site at https://zhangbri.github.io/tails_of_war/
-
 To engage with this project locally:
-1. Clone the repo: `git clone https://github.com/zhangbri/tails_of_war.git`
-2. Navigate to the project's heart: `cd tails_of_war`
-3. Open `index.html` in your web browser to witness the magic.
+#### Clone the repo
+```
+git clone https://github.com/zhangbri/tails_of_war.git
+```
+#### Navigate to the project's heart:
+```
+cd tails_of_war
+```
+
+#### Open `index.html` in your web browser to witness the magic.
+
+## Live Demo 🔗
+To embark on the Tails of War adventure: https://zhangbri.github.io/tails_of_war/
+
 
 ## 📁 Directory Structure
 - `index.html` - The main gateway to Tails of War.
