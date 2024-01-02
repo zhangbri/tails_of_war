@@ -37,9 +37,19 @@ To engage with this project locally:
 - `/images` - The visual essence of our game's soul.
 
 ## 📸 Screenshots
-
+<p align="center">
+  <img width="205" alt="beginner_map" src="https://github.com/zhangbri/tails_of_war/assets/115335041/eebc2724-bf38-44cb-990f-3144aed9a415">
+  <img width="260" alt="intermediate_map" src="https://github.com/zhangbri/tails_of_war/assets/115335041/28d1f3df-76f7-434b-9be0-d231f5d966ef">
+  <img width="260" alt="advanced_map" src="https://github.com/zhangbri/tails_of_war/assets/115335041/e7b120dd-5884-453f-87c7-e5160eaa2512">
+</p>
+<p align="center">
+  <img width="260" alt="asian_faction" src="https://github.com/zhangbri/tails_of_war/assets/115335041/4ab015b5-42e5-46c9-bcfd-15d2d90a64af">
+  <img width="260" alt="desert_faction" src="https://github.com/zhangbri/tails_of_war/assets/115335041/7bd2d80a-aaf4-47cd-a7cb-82428d5a639e">
+  <img width="260" alt="european_faction" src="https://github.com/zhangbri/tails_of_war/assets/115335041/aaf940e6-ec2d-4192-9c87-1a1600f8fcae">
+</p>
+<p align="center">
+  <img width="240" alt="buildings" src="https://github.com/zhangbri/tails_of_war/assets/115335041/118a4647-2aad-4573-8ca8-2362e198d854">
+</p>
 
 ## 📬 Contact
 Got queries or suggestions? Feel free to reach out to me at zhangbri@umich.edu.
-
----
