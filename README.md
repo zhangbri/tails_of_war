@@ -20,7 +20,7 @@ Welcome to the 'Tails of War' project repository! 🚀 This repository hosts the
 
 ## 🚀 Quick Start
 To embark on the 'Tails of War' adventure:
-1. Visit the live site at [Tails of War Live Site](#) (🔗 add the live site link here).
+1. Visit the live site at https://zhangbri.github.io/tails_of_war/
 
 To engage with this project locally:
 1. Clone the repo: `git clone https://github.com/[YourUsername]/TailsOfWar.git`
