@@ -16,5 +16,5 @@ wolverineSoftImage.addEventListener('click', function() {
 });
 
 steamImage.addEventListener('click', function() {
-    window.open('https://store.steampowered.com', '_blank');
+    window.open('https://store.steampowered.com/app/2687500/Tails_of_War/', '_blank');
 });
