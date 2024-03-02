@@ -30,8 +30,8 @@ cd tails_of_war
 **Open** `index.html` **in your web browser to witness the magic.**
 
 ## Live Demo 🔗
-My Website: https://zhangbri.github.io/tails_of_war/
-Tails of War: https://store.steampowered.com/app/2687500/Tails_of_War/
+- My Website: https://zhangbri.github.io/tails_of_war/
+- Tails of War: https://store.steampowered.com/app/2687500/Tails_of_War/
 
 ## 📁 Directory Structure
 - `index.html` - The main gateway to Tails of War.
