@@ -23,7 +23,7 @@ Welcome to the Tails of War project repository! 🚀 This repository hosts the v
 ```
 git clone https://github.com/zhangbri/tails_of_war.git
 ```
-**Navigate to the project's heart**
+**Navigate to the project folder**
 ```
 cd tails_of_war
 ```
