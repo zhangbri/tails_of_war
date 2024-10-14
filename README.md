@@ -3,7 +3,7 @@
 ## 🌟 Introduction
 Welcome to the Tails of War project repository! 🚀 This repository hosts the vibrant website for Tails of War, a unique cat-themed turn-based tactics game. The site is a comprehensive portal, offering in-depth insights into gameplay mechanics, intriguing factions, strategic buildings, and more. Crafted with an interactive and user-friendly interface, our mission is to captivate visitors and immerse them into the enchanting world of Tails of War.
 
-## 💡 Project Features
+## 💡 Features
 - **Responsive Design:** 🖥️📱 Guarantees a seamless browsing experience across a variety of devices and screen sizes.
 - **Accessibility Features:** ♿ Includes 'Skip to Content' links and fully keyboard-navigable elements, ensuring accessibility for all users.
 - **Navigable Interface:** 🧭 Easy-to-use navigation bar for swift access to diverse sections.
@@ -18,7 +18,7 @@ Welcome to the Tails of War project repository! 🚀 This repository hosts the v
 - **JavaScript:** ⚙️ Injecting interactive features to bring the site to life.
 - **Google Fonts:** 🖋️ Enhancing typography with stylish and readable fonts.
 
-## 🚀 Quick Start
+## 🚀 Installation and Setup
 **Clone the repository**
 ```
 git clone https://github.com/zhangbri/tails_of_war.git
