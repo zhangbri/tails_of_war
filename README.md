@@ -59,4 +59,4 @@ cd tails_of_war
 </p>
 
 ## 📬 Contact
-Got queries or suggestions? Feel free to reach out via email at [zhangbri@umich.edu](mailto:zhangbri@umich.edu), or connect with me on [LinkedIn](https://www.linkedin.com/in/zhangbri/). I’m open to suggestions, collaborations, and discussions.
+For inquiries or feedback, please reach out via email at [zhangbri@umich.edu](mailto:zhangbri@umich.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/zhangbri/).
