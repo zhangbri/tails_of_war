@@ -1,24 +1,24 @@
 # 🐈🐈‍⬛ Tails of War Website 🎮🐾
 
 ## 🌟 Introduction
-Welcome to the Tails of War project repository! 🚀 This repository hosts the vibrant website for Tails of War, a unique cat-themed turn-based tactics game. The site is a comprehensive portal, offering in-depth insights into gameplay mechanics, intriguing factions, strategic buildings, and more. Crafted with an interactive and user-friendly interface, our mission is to captivate visitors and immerse them into the enchanting world of Tails of War.
+Welcome to the Tails of War repository! This repository hosts the vibrant website for Tails of War, a unique cat-themed turn-based tactics game. The site is a comprehensive portal, offering in-depth insights into gameplay mechanics, intriguing factions, strategic buildings, and more. Crafted with an interactive and user-friendly interface, our mission is to captivate visitors and immerse them into the enchanting world of Tails of War.
 
 ## 💡 Features
-- **Responsive Design:** 🖥️📱 Guarantees a seamless browsing experience across a variety of devices and screen sizes.
-- **Accessibility Features:** ♿ Includes 'Skip to Content' links and fully keyboard-navigable elements, ensuring accessibility for all users.
-- **Navigable Interface:** 🧭 Easy-to-use navigation bar for swift access to diverse sections.
-- **Rich Content:** 📚 Offers detailed exploration of gameplay dynamics, diverse game factions, and elaborate in-game buildings.
-- **Interactive Elements:** 💥 Utilizes engaging flip cards and dynamic content switching for a lively user interaction.
-- **Dynamic Map Switching:** 🗺️ Enhances gameplay exploration with interactive map functionalities.
-- **External Links:** 🔗 Connects visitors to a wealth of related resources, enriching the site's informational value.
+- **Responsive Design:** Guarantees a seamless browsing experience across a variety of devices and screen sizes.
+- **Accessibility Features:** Includes 'Skip to Content' links and fully keyboard-navigable elements, ensuring accessibility for all users.
+- **Navigable Interface:** Easy-to-use navigation bar for swift access to diverse sections.
+- **Rich Content:** Offers detailed exploration of gameplay dynamics, diverse game factions, and elaborate in-game buildings.
+- **Interactive Elements:** Utilizes engaging flip cards and dynamic content switching for a lively user interaction.
+- **Dynamic Map Switching:** Enhances gameplay exploration with interactive map functionalities.
+- **External Links:** Connects visitors to a wealth of related resources, enriching the site's informational value.
 
-## 🛠️ Technologies 
-- **HTML:** 📝 For structuring the vibrant web pages.
-- **CSS:** 🎨 Styling the web pages with a flair, including adaptive responsive design.
-- **JavaScript:** ⚙️ Injecting interactive features to bring the site to life.
-- **Google Fonts:** 🖋️ Enhancing typography with stylish and readable fonts.
+## 💻 Technologies 
+- **HTML:** For structuring the vibrant web pages.
+- **CSS:** Styling the web pages with a flair, including adaptive responsive design.
+- **JavaScript:** Injecting interactive features to bring the site to life.
+- **Google Fonts:** Enhancing typography with stylish and readable fonts.
 
-## 🚀 Installation and Setup
+## 🛠️ Installation and Setup
 **Clone the repository**
 ```
 git clone https://github.com/zhangbri/tails_of_war.git
@@ -29,7 +29,7 @@ cd tails_of_war
 ```
 **Open** `index.html` **in your web browser to witness the magic.**
 
-## Live Demo 🔗
+## 🔗 Live Demo
 - My Website: https://zhangbri.github.io/tails_of_war/
 - WolverineSoft: https://www.wolverinesoft.org/tails-of-war
 - Tails of War: https://store.steampowered.com/app/2687500/Tails_of_War/
